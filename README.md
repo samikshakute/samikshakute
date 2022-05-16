@@ -10,4 +10,4 @@
 <h4> Let's get connected: </h4>
 <a href="https://www.linkedin.com/in/samikshakute" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a> 
 <a href="https://www.hackerrank.com/samikshakute2002" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" width="40" height="40"/> </a>
-<a href="https://www.hackerearth.com/@samikshakute" target="_blank"><img src="https://engineering.hackerearth.com/images/logo_he.png" width="40" height="40" alt="HackerEarth"/></a>
+<a href="https://www.hackerearth.com/@samikshakute" target="_blank"><img src="https://simpleicons.org/icons/hackerearth.svg" width="40" height="40" alt="HackerEarth"/></a>
