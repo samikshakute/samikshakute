@@ -1,5 +1,5 @@
 ## Hey there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm Samiksha! 
-#### A passionate learner and Software Development Enthusiast :)
+ A passionate learner and Software Development Enthusiast :)
 - 🔭 I’m currently working on Java and MySQL.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Open Source Projects in Java.
