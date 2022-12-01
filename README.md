@@ -1,4 +1,4 @@
-## Hey there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm Samiksha! 
+## Hey there, <img src="https://user-images.githubusercontent.com/102016448/205023633-63deb91c-91cd-46ef-a2c1-aad0d361c279.gif" width="29"> I'm Samiksha! 
  A passionate learner and Software Development Enthusiast :)
 - 🔭 I’m currently working on Java and MySQL.
 - 🌱 I’m currently learning Data Structures and Algorithms.
