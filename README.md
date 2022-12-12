@@ -1,10 +1,11 @@
 ## Hey there, <img src="https://user-images.githubusercontent.com/102016448/205023633-63deb91c-91cd-46ef-a2c1-aad0d361c279.gif" width="29"> I'm Samiksha! 
  A passionate learner and Software Development Enthusiast :)
-- 🔭 I’m currently working on Java and MySQL.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🔭 I’m currently working on some Web Development Projects.
+- 🌱 I’m currently learning Data Structures and Algorithms in Java.
 - 👯 I’m looking to collaborate on Open Source Projects in Java.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Apart from programming I love singing and playing harmonium. 
+-  📧 How to reach me: <a href="mailto:samikshakute2002@gmail.com">samikshakute2002@gmail.com</a>
+- ⚡ Fun fact: Apart from programming I love music! 
 
 ## Tools and Technologies:
 <a href = "https://www.java.com/"><img src = "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt = "Java" width = "48" height = "48"></a>
@@ -20,7 +21,7 @@
 <a href = "https://code.visualstudio.com/"><img src = "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt = "VS Code" width = "48" height = "48"/></a>
 <a href = "https://developer.android.com/studio"><img src = "https://img.icons8.com/color/48/000000/android-studio--v3.png" alt = "Android Studio" width = "48" height = "48"/></a>
 
-## Socials:
+## Let's get connected!
 <a href = "https://www.linkedin.com/in/samikshakute"><img src = "https://img.icons8.com/color/48/000000/linkedin.png" width = "48" height = "48"/>
 <a href = "https://twitter.com/samikshakute"><img src = "https://img.icons8.com/color/48/000000/twitter--v1.png" width = "48" height = "48"/>
 <a href = "https://www.hackerrank.com/samikshakute2002"><img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width = "48" height = "48"/>
