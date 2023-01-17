@@ -22,8 +22,8 @@
 <a href = "https://developer.android.com/studio"><img src = "https://img.icons8.com/color/48/000000/android-studio--v3.png" alt = "Android Studio" width = "48" height = "48"/></a>
 
 ## Let's get connected!
-<a href = "https://www.linkedin.com/in/samikshakute"><img src = "https://img.icons8.com/color/48/000000/linkedin.png" width = "48" height = "48"/>
 <a href = "https://twitter.com/samikshakute"><img src = "https://img.icons8.com/color/48/000000/twitter--v1.png" width = "48" height = "48"/>
+<a href = "https://www.linkedin.com/in/samikshakute"><img src = "https://img.icons8.com/color/48/000000/linkedin.png" width = "48" height = "48"/>
 <a href = "https://www.hackerrank.com/samikshakute2002"><img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width = "48" height = "48"/>
 <a href = "https://leetcode.com/samikshakute/"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width = "48" height = "48"/>
 <a href = "https://hashnode.com/@samikshakute"><img src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width = "48" height = "48"/>
