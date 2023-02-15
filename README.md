@@ -1,5 +1,5 @@
 ## Hey there, <img src="https://user-images.githubusercontent.com/102016448/205023633-63deb91c-91cd-46ef-a2c1-aad0d361c279.gif" width="29"> I'm Samiksha! 
- A passionate learner and Software Development Enthusiast :)
+ A passionate learner and an Open Source Enthusiast :)
 - 🔭 I’m currently working on some Web Development Projects.
 - 🌱 I’m currently learning Data Structures and Algorithms in Java.
 - 👯 I’m looking to collaborate on Open Source Projects in Java.
