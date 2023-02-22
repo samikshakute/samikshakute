@@ -9,7 +9,6 @@
 
 ## Tools and Technologies:
 <a href = "https://www.java.com/"><img src = "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt = "Java" width = "48" height = "48"></a>
-<a href = "https://www.cprogramming.com/"><img src = "https://img.icons8.com/color/48/000000/c-programming.png" alt = "C" width = "48" height = "48"></a>
 <a href = "https://www.w3schools.com/html/"><img src = "https://img.icons8.com/color/48/000000/html-5--v1.png" alt = "HTML" width = "48" height = "48"/></a>
 <a href = "https://www.w3schools.com/css/"><img src = "https://img.icons8.com/color/48/000000/css3.png" alt = "CSS" width = "48" height = "48"/></a>
 <a href = "https://getbootstrap.com/"><img src = "https://img.icons8.com/color/48/000000/bootstrap.png" alt = "JavaScript" width = "48" height = "48"/></a>
