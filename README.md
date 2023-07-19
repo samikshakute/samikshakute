@@ -27,8 +27,7 @@
 <a href = "https://leetcode.com/samikshakute/"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width = "48" height = "48"/>
 <a href = "https://hashnode.com/@samikshakute"><img src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width = "48" height = "48"/>
 
-## 
-<p align="center">	
-<img width="49.5%" hspace="10px" src="https://github-readme-stats.vercel.app/api?username=samikshakute&show_icons=true&theme=tokyonight" alt="samikshakute"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=samikshakute&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="samikshakute"/>
-</p>
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
