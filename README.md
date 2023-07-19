@@ -27,7 +27,7 @@
 <a href = "https://leetcode.com/samikshakute/"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width = "48" height = "48"/>
 <a href = "https://hashnode.com/@samikshakute"><img src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width = "48" height = "48"/>
 
-## My Latest Blog Posts 👇
+## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://samikshakute.hashnode.dev//15-most-popular-linux-commands" title="15 Most Popular Linux Commands!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678348277478/7048574e-0fe7-42d9-9b6f-1f073d55232c.png" alt="15 Most Popular Linux Commands!" width="250px" align="left" /></a>
