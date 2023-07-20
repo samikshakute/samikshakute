@@ -30,8 +30,9 @@
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://samikshakute.hashnode.dev//15-most-popular-linux-commands" title="15 Most Popular Linux Commands!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678348277478/7048574e-0fe7-42d9-9b6f-1f073d55232c.png" alt="15 Most Popular Linux Commands!" width="250px" align="left" /></a>
-<a href="https://samikshakute.hashnode.dev//15-most-popular-linux-commands" title="15 Most Popular Linux Commands!"><strong>15 Most Popular Linux Commands!</strong></a>
+<a href="https://samikshakute.hashnode.dev/15-most-popular-linux-commands" title="15 Most Popular Linux Commands!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678348277478/7048574e-0fe7-42d9-9b6f-1f073d55232c.png" alt="15 Most Popular Linux Commands!" width="250px" align="left" /></a>
+<a href="https://samikshakute.hashnode.dev/15-most-popular-linux-commands" title="15 Most Popular Linux Commands!"><strong>15 Most Popular Linux Commands!</strong></a>
+<div><strong>10 July 2023</strong> | <strong>Updated: 19 July 2023</strong></div>
 <br/> It has been a year and a half since I started using Linux, and during this time, I have noticed that many people face difficulties when getting started with Linux and the Terminal. Therefore, in this blog post, we will delve into the 15 most frequent... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
