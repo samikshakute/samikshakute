@@ -30,9 +30,11 @@
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://samikshakute.hashnode.dev/unraveling-the-network" title="Unraveling the Network"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689777822322/75a263b2-b4ed-4dee-9d1d-271318b41bf6.png" alt="Unraveling the Network" width="250px" align="left" /></a>
-<a href="https://samikshakute.hashnode.dev/unraveling-the-network" title="Unraveling the Network"><strong>Unraveling the Network</strong></a>
-<div><strong>29 July 2023</strong></div>
-<br/> Welcome to "Unraveling the Network: A Comprehensive Guide to Computer Networking." In this blog, we will take an in-depth journey into the fascinating world of computer networking. We will delve into the foundations, principles, and technologies that... </p> <br/> <br/>
+<a href="https://samikshakute.hashnode.dev/introduction-to-computer-networking" title="Introduction to Computer Networking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691762345180/30bfe167-2a3e-467a-97a2-7d7d9dc65e50.png" alt="Introduction to Computer Networking" width="250px" align="left" /></a>
+<a href="https://samikshakute.hashnode.dev/introduction-to-computer-networking" title="Introduction to Computer Networking"><strong>Introduction to Computer Networking</strong></a>
+<div><strong>11 Aug 2023</strong> | <strong>Updated: 11 Aug 2023</strong></div>
+<br/> So, what is a Computer Network?
+In simple terms, A computer network refers to a group of computers and other devices connected to share data and resources.
+Just like people use networks to communicate and collaborate, computer networks enable devices... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
