@@ -30,11 +30,9 @@
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://samikshakute.hashnode.dev/introduction-to-computer-networking" title="Introduction to Computer Networking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691762345180/30bfe167-2a3e-467a-97a2-7d7d9dc65e50.png" alt="Introduction to Computer Networking" width="250px" align="left" /></a>
-<a href="https://samikshakute.hashnode.dev/introduction-to-computer-networking" title="Introduction to Computer Networking"><strong>Introduction to Computer Networking</strong></a>
-<div><strong>11 Aug 2023</strong> | <strong>Updated: 11 Aug 2023</strong></div>
-<br/> So, what is a Computer Network?
-In simple terms, A computer network refers to a group of computers and other devices connected to share data and resources.
-Just like people use networks to communicate and collaborate, computer networks enable devices... </p> <br/> <br/>
+<a href="https://samikshakute.hashnode.dev/exploring-the-structure-of-computer-networks-and-the-osi-model" title="Exploring the Structure of Computer Networks and the OSI Model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692264487711/756a7292-ae58-4ce2-8674-86d4e9093d19.png" alt="Exploring the Structure of Computer Networks and the OSI Model" width="250px" align="left" /></a>
+<a href="https://samikshakute.hashnode.dev/exploring-the-structure-of-computer-networks-and-the-osi-model" title="Exploring the Structure of Computer Networks and the OSI Model"><strong>Exploring the Structure of Computer Networks and the OSI Model</strong></a>
+<div><strong>17 Aug 2023</strong> | <strong>Updated: 17 Aug 2023</strong></div>
+<br/> Understanding the functioning of computer networks and the OSI (Open Systems Interconnection) model is crucial for understanding how data flows across digital landscapes. In this blog post, we'll dive deep into the OSI model and its layers, breaking ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
