@@ -30,9 +30,10 @@
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://samikshakute.hashnode.dev/exploring-the-structure-of-computer-networks-and-the-osi-model" title="Exploring the Structure of Computer Networks and the OSI Model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692264487711/756a7292-ae58-4ce2-8674-86d4e9093d19.png" alt="Exploring the Structure of Computer Networks and the OSI Model" width="250px" align="left" /></a>
-<a href="https://samikshakute.hashnode.dev/exploring-the-structure-of-computer-networks-and-the-osi-model" title="Exploring the Structure of Computer Networks and the OSI Model"><strong>Exploring the Structure of Computer Networks and the OSI Model</strong></a>
-<div><strong>17 Aug 2023</strong> | <strong>Updated: 17 Aug 2023</strong></div>
-<br/> Understanding the functioning of computer networks and the OSI (Open Systems Interconnection) model is crucial for understanding how data flows across digital landscapes. In this blog post, we'll dive deep into the OSI model and its layers, breaking ... </p> <br/> <br/>
+<a href="https://samikshakute.hashnode.dev/the-heart-of-user-interaction-exploring-the-tcpip-application-layer" title="The Heart of User Interaction: Exploring the TCP/IP Application Layer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692342593261/316e6bc9-98d8-4160-b8c4-1477a958d9bb.png" alt="The Heart of User Interaction: Exploring the TCP/IP Application Layer" width="250px" align="left" /></a>
+<a href="https://samikshakute.hashnode.dev/the-heart-of-user-interaction-exploring-the-tcpip-application-layer" title="The Heart of User Interaction: Exploring the TCP/IP Application Layer"><strong>The Heart of User Interaction: Exploring the TCP/IP Application Layer</strong></a>
+<div><strong>20 Aug 2023</strong></div>
+<br/> TCP / IP Model
+The TCP/IP Model, also known as the Internet Protocol Suite, was developed by ARPA (Advanced Research Projects Agency). It shares similarities with the OSI model but combines the Application, Presentation, and Session layers into one w... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
