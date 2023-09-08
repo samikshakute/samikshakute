@@ -30,10 +30,9 @@
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://samikshakute.hashnode.dev/the-heart-of-user-interaction-exploring-the-tcpip-application-layer" title="The Heart of User Interaction: Exploring the TCP/IP Application Layer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692342593261/316e6bc9-98d8-4160-b8c4-1477a958d9bb.png" alt="The Heart of User Interaction: Exploring the TCP/IP Application Layer" width="250px" align="left" /></a>
-<a href="https://samikshakute.hashnode.dev/the-heart-of-user-interaction-exploring-the-tcpip-application-layer" title="The Heart of User Interaction: Exploring the TCP/IP Application Layer"><strong>The Heart of User Interaction: Exploring the TCP/IP Application Layer</strong></a>
-<div><strong>20 Aug 2023</strong></div>
-<br/> TCP / IP Model
-The TCP/IP Model, also known as the Internet Protocol Suite, was developed by ARPA (Advanced Research Projects Agency). It shares similarities with the OSI model but combines the Application, Presentation, and Session layers into one w... </p> <br/> <br/>
+<a href="https://samikshakute.hashnode.dev/demystifying-the-transport-layer-how-your-messages-travel-across-the-internet" title="Demystifying the Transport Layer: How Your Messages Travel Across the Internet"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694093778720/eda78908-bb0b-4d9b-848e-fd94af0616d9.png" alt="Demystifying the Transport Layer: How Your Messages Travel Across the Internet" width="250px" align="left" /></a>
+<a href="https://samikshakute.hashnode.dev/demystifying-the-transport-layer-how-your-messages-travel-across-the-internet" title="Demystifying the Transport Layer: How Your Messages Travel Across the Internet"><strong>Demystifying the Transport Layer: How Your Messages Travel Across the Internet</strong></a>
+<div><strong>7 Sept 2023</strong></div>
+<br/> Have you ever wondered what happens behind the scenes when you hit the send button on WhatsApp or any other messaging application? It seems like a simple action – you type a message, click send, and your friend receives it almost instantly. But the j... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
