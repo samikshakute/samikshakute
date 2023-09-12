@@ -30,9 +30,9 @@
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://samikshakute.hashnode.dev/demystifying-the-transport-layer-how-your-messages-travel-across-the-internet" title="Demystifying the Transport Layer: How Your Messages Travel Across the Internet"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694093778720/eda78908-bb0b-4d9b-848e-fd94af0616d9.png" alt="Demystifying the Transport Layer: How Your Messages Travel Across the Internet" width="250px" align="left" /></a>
-<a href="https://samikshakute.hashnode.dev/demystifying-the-transport-layer-how-your-messages-travel-across-the-internet" title="Demystifying the Transport Layer: How Your Messages Travel Across the Internet"><strong>Demystifying the Transport Layer: How Your Messages Travel Across the Internet</strong></a>
-<div><strong>7 Sept 2023</strong></div>
-<br/> Have you ever wondered what happens behind the scenes when you hit the send button on WhatsApp or any other messaging application? It seems like a simple action – you type a message, click send, and your friend receives it almost instantly. But the j... </p> <br/> <br/>
+<a href="https://samikshakute.hashnode.dev/inside-the-network-layer-routers-ip-addresses-subnetting-and-middle-boxes" title="Inside the Network Layer: Routers, IP Addresses, Subnetting, and Middle Boxes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694418049501/6e1adbed-24fd-4bd3-a1d1-4bf1d29e249e.png" alt="Inside the Network Layer: Routers, IP Addresses, Subnetting, and Middle Boxes" width="250px" align="left" /></a>
+<a href="https://samikshakute.hashnode.dev/inside-the-network-layer-routers-ip-addresses-subnetting-and-middle-boxes" title="Inside the Network Layer: Routers, IP Addresses, Subnetting, and Middle Boxes"><strong>Inside the Network Layer: Routers, IP Addresses, Subnetting, and Middle Boxes</strong></a>
+<div><strong>11 Sept 2023</strong></div>
+<br/> Understanding how data travels through the internet is like peeling back the layers of an onion. In this blog, we'll focus on one of those layers, the Network Layer. We'll explore how routers guide data packets to their destinations and how IP addres... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
