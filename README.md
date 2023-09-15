@@ -30,9 +30,9 @@
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://samikshakute.hashnode.dev/inside-the-network-layer-routers-ip-addresses-subnetting-and-middle-boxes" title="Inside the Network Layer: Routers, IP Addresses, Subnetting, and Middle Boxes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694418049501/6e1adbed-24fd-4bd3-a1d1-4bf1d29e249e.png" alt="Inside the Network Layer: Routers, IP Addresses, Subnetting, and Middle Boxes" width="250px" align="left" /></a>
-<a href="https://samikshakute.hashnode.dev/inside-the-network-layer-routers-ip-addresses-subnetting-and-middle-boxes" title="Inside the Network Layer: Routers, IP Addresses, Subnetting, and Middle Boxes"><strong>Inside the Network Layer: Routers, IP Addresses, Subnetting, and Middle Boxes</strong></a>
-<div><strong>11 Sept 2023</strong></div>
-<br/> Understanding how data travels through the internet is like peeling back the layers of an onion. In this blog, we'll focus on one of those layers, the Network Layer. We'll explore how routers guide data packets to their destinations and how IP addres... </p> <br/> <br/>
+<a href="https://samikshakute.hashnode.dev/the-role-of-data-link-and-physical-layers-in-network-communication" title="The Role of Data Link and Physical Layers in Network Communication"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694421203020/9ce2e20d-7cfe-42ad-84c7-c92f15f84f3b.png" alt="The Role of Data Link and Physical Layers in Network Communication" width="250px" align="left" /></a>
+<a href="https://samikshakute.hashnode.dev/the-role-of-data-link-and-physical-layers-in-network-communication" title="The Role of Data Link and Physical Layers in Network Communication"><strong>The Role of Data Link and Physical Layers in Network Communication</strong></a>
+<div><strong>14 Sept 2023</strong></div>
+<br/> When we use the internet or connect devices in our home, there are many layers of technology working together to make it all happen smoothly. Two of these important layers are the Data Link Layer and the Physical Layer. Let's dive into what these lay... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
