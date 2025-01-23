@@ -27,13 +27,10 @@
 
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
-<p align=left>
-<a href=https://samikshakute.hashnode.dev/null title=null>
-<img src=null alt=null width=250px align=left /></a>
-<a href=https://samikshakute.hashnode.dev/null title=null>
-<strong>null</strong></a>
-<div><strong>null</strong></div>
-<br/> null </p>
-<br/> <br/>
+<p align="left">
+<a href="https://samikshakute.hashnode.dev/getting-started-with-selenium-a-step-by-step-guide" title="Getting Started with Selenium: A Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737027796438/72dfedc7-cf2d-4aad-a952-b1c87cd0acf3.png" alt="Getting Started with Selenium: A Step-by-Step Guide" width="250px" align="left" /></a>
+<a href="https://samikshakute.hashnode.dev/docker-made-easy-a-simplified-guide-with-examples" title="Getting Started with Selenium: A Step-by-Step Guide"><strong>Getting Started with Selenium: A Step-by-Step Guide</strong></a>
+<div><strong>16 Sept 2023</strong></div>
+<br/> In this blog, we’ll explore how to get started with Selenium, step by step. Step 1: Visit the Selenium Website To begin, head over ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
