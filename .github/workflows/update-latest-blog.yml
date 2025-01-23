@@ -13,6 +13,12 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
+      - name: "Debugging: Check Input Values"
+        run: |
+          echo "USERNAME: samikshakute"
+          echo "BLOG_URL: https://samikshakute.hashnode.dev"
+
+
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@1.2"
         with:
