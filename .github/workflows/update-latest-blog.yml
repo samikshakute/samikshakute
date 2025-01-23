@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v2  # Use a stable version
 
       - name: "📚 Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@v1.0.0"  # Use a specific version instead of 'main'
+        uses: "varunsridharan/action-hashnode-blog@main"  # Use a specific version instead of 'main'
         with:
           USERNAME: 'samikshakute'  # Replace with your Hashnode username
           BLOG_URL: 'https://samikshakute.hashnode.dev'  # Replace with your actual Hashnode blog URL (no trailing slash)
