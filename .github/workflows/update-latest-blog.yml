@@ -3,21 +3,25 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+    - cron: '0 0 * * *' # Runs every day at midnight
 
 jobs:
   update_blogs:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
+      - name: "📥 Fetching Repository Contents"
+        uses: actions/checkout@v2  # Use a stable version
 
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - name: "📚 Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@v1.0.0"  # Use a specific version instead of 'main'
         with:
-          USERNAME: 'samikshakute' # Hashnode Username
-          BLOG_URL: 'https://samikshakute.hashnode.dev/' # Blog URL
-          COUNT: 1 # MAX Visisble
+          USERNAME: 'samikshakute'  # Replace with your Hashnode username
+          BLOG_URL: 'https://samikshakute.hashnode.dev'  # Replace with your actual Hashnode blog URL (no trailing slash)
+          COUNT: 1  # Max number of visible blog posts
+          TYPE: 'REPOSITORY'
+          FILE: 'README.md'
+          STYLE: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
