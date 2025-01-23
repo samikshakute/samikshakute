@@ -1,30 +1,24 @@
-name: Update README with Latest Blog
+name: "📚 Blog Updater"
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - README.md
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
 
 jobs:
-  update-readme:
+  update_blogs:
+    name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: "📥 Fetching Repository Contents"
+        uses: actions/checkout@v2  # Use a stable version
 
-      - name: Update README with latest blog
-        uses: Hashnode-Action/Hashnode-Blog@v1
+      - name: "📚 Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          hashnode_username: 'samikshakute'
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Commit changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Updated README with latest blog"
-          git push
+          USERNAME: 'samikshakute' # Replace with your Hashnode username
+          BLOG_URL: 'https://samikshakute.hashnode.dev' # Replace with your actual Hashnode blog URL
+          COUNT: 1 # Max number of visible blog posts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
