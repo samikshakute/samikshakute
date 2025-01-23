@@ -1,44 +1,30 @@
-name: Update Latest Blog in README
+name: Update README with Latest Blog
 
 on:
-  schedule:
-    # Runs daily at midnight UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: Fetch Latest Blog Post
-        id: fetch_blog
+      - name: Update README with latest blog
+        uses: Hashnode-Action/Hashnode-Blog@v1
+        with:
+          hashnode_username: 'samikshakute'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit changes
         run: |
-          BLOG_DATA=$(curl -s https://api.hashnode.com/ -X POST -H "Content-Type: application/json" \
-            -d '{"query":"{user(username: \"samikshakute\") {publication {posts(page: 0) {title brief slug coverImage dateAdded}}}}"}')
-          echo "$BLOG_DATA" > blog.json
-          LATEST_TITLE=$(jq -r '.data.user.publication.posts[0].title' blog.json)
-          LATEST_BRIEF=$(jq -r '.data.user.publication.posts[0].brief' blog.json)
-          LATEST_SLUG=$(jq -r '.data.user.publication.posts[0].slug' blog.json)
-          LATEST_IMAGE=$(jq -r '.data.user.publication.posts[0].coverImage' blog.json)
-          LATEST_DATE=$(jq -r '.data.user.publication.posts[0].dateAdded' blog.json | cut -d'T' -f1)
-
-          BLOG_MARKDOWN="<p align=\"left\">\n<a href=\"https://samikshakute.hashnode.dev/$LATEST_SLUG\" title=\"$LATEST_TITLE\">\n<img src=\"$LATEST_IMAGE\" alt=\"$LATEST_TITLE\" width=\"250px\" align=\"left\" /></a>\n<a href=\"https://samikshakute.hashnode.dev/$LATEST_SLUG\" title=\"$LATEST_TITLE\">\n<strong>$LATEST_TITLE</strong></a>\n<div><strong>$LATEST_DATE</strong></div>\n<br/> $LATEST_BRIEF </p>\n<br/> <br/>"
-          echo "::set-output name=blog_markdown::$BLOG_MARKDOWN"
-
-      - name: Update README
-        run: |
-          BLOG_MARKDOWN="${{ steps.fetch_blog.outputs.blog_markdown }}"
-          sed -i '/<!-- HASHNODE_BLOG:START -->/,/<!-- HASHNODE_BLOG:END -->/c\<!-- HASHNODE_BLOG:START -->\n'"$BLOG_MARKDOWN"'\n<!-- HASHNODE_BLOG:END -->' README.md
-
-      - name: Commit Changes
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Update latest blog post" || echo "No changes to commit"
+          git commit -m "Updated README with latest blog"
           git push
 
