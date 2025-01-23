@@ -27,10 +27,13 @@
 
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://samikshakute.hashnode.dev/docker-made-easy-a-simplified-guide-with-examples" title="Docker Made Easy: A Simplified Guide with Examples"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694845086113/1dec5527-2987-4128-9dd1-e786c2d24148.png" alt="Docker Made Easy: A Simplified Guide with Examples" width="250px" align="left" /></a>
-<a href="https://samikshakute.hashnode.dev/docker-made-easy-a-simplified-guide-with-examples" title="Docker Made Easy: A Simplified Guide with Examples"><strong>Docker Made Easy: A Simplified Guide with Examples</strong></a>
-<div><strong>16 Sept 2023</strong></div>
-<br/> In today's digital world, we often hear about fancy terms like "containers" and "Docker." But what exactly is Docker, and why is it so important? In this blog, we'll break it down in the simplest terms possible and provide you with some easy-to-under... </p> <br/> <br/>
+<p align=left>
+<a href=https://samikshakute.hashnode.dev/null title=null>
+<img src=null alt=null width=250px align=left /></a>
+<a href=https://samikshakute.hashnode.dev/null title=null>
+<strong>null</strong></a>
+<div><strong>null</strong></div>
+<br/> null </p>
+<br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
