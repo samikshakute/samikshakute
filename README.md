@@ -9,16 +9,19 @@
 
 ## Tools and Technologies:
 <a href = "https://www.java.com/"><img src = "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt = "Java" width = "48" height = "48"></a>
+<a href = "https://www.python.org/"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <a href = "https://www.w3schools.com/html/"><img src = "https://img.icons8.com/color/48/000000/html-5--v1.png" alt = "HTML" width = "48" height = "48"/></a>
 <a href = "https://www.w3schools.com/css/"><img src = "https://img.icons8.com/color/48/000000/css3.png" alt = "CSS" width = "48" height = "48"/></a>
 <a href = "https://getbootstrap.com/"><img src = "https://img.icons8.com/color/48/000000/bootstrap.png" alt = "JavaScript" width = "48" height = "48"/></a>
 <a href = "https://www.javascript.com/"><img src = "https://img.icons8.com/color/48/000000/javascript--v1.png" alt = "JavaScript" width = "48" height = "48"/></a>
 <a href = "https://www.mysql.com/"><img src = "https://img.icons8.com/color/48/000000/mysql-logo.png" alt = "MySQL" width = "48" height = "48"/></a>
-<a href = "https://www.mongodb.com/"><img src = "https://img.icons8.com/color/48/000000/mongodb.png" alt = "MongoDB" width = "48" height = "48"/></a>
+<a href = "https://www.selenium.dev/"><img width="48" height="48" src="https://img.icons8.com/color/48/selenium-test-automation.png" alt="selenium-test-automation"/>
+<a href = "https://www.jenkins.io/"><img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
+<a href = "https://www.postman.com/"><img width="48" height="48" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
+<a href = "https://aws.amazon.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+<a href = "https://azure.microsoft.com/"><img width="50" height="50" src="https://img.icons8.com/fluency/50/azure-1.png" alt="azure-1"/>
 <a href = "https://git-scm.com/doc"><img src = "https://img.icons8.com/color/48/000000/git.png" alt = "Git" width = "48" height = "48"/></a>
-<a href = "https://www.jetbrains.com/idea/"><img src = "https://img.icons8.com/color/48/000000/intellij-idea.png" alt = "IntelliJ" width = "48" height = "48"/></a>
 <a href = "https://code.visualstudio.com/"><img src = "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt = "VS Code" width = "48" height = "48"/></a>
-<a href = "https://developer.android.com/studio"><img src = "https://img.icons8.com/color/48/000000/android-studio--v3.png" alt = "Android Studio" width = "48" height = "48"/></a>
 
 ## Let's get connected!
 <a href = "https://twitter.com/samikshakute"><img src = "https://img.icons8.com/color/48/000000/twitter--v1.png" width = "48" height = "48"/>
