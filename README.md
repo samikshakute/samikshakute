@@ -24,9 +24,9 @@
 <a href = "https://code.visualstudio.com/"><img src = "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt = "VS Code" width = "48" height = "48"/></a>
 
 ## Let's get connected!
-<a href = "https://twitter.com/samikshakute"><img src = "https://img.icons8.com/color/48/000000/twitter--v1.png" width = "48" height = "48"/>
-<a href = "https://www.linkedin.com/in/samikshakute"><img src = "https://img.icons8.com/color/48/000000/linkedin.png" width = "48" height = "48"/>
-<a href = "https://hashnode.com/@samikshakute"><img src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width = "48" height = "48"/>
+<a href = "https://twitter.com/samikshakute"><img src = "https://img.icons8.com/color/48/000000/twitter--v1.png" width = "48" height = "48"/></a>
+<a href = "https://www.linkedin.com/in/samikshakute"><img src = "https://img.icons8.com/color/48/000000/linkedin.png" width = "48" height = "48"/></a>
+<a href = "https://hashnode.com/@samikshakute"><img src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width = "48" height = "48"/></a>
 
 ## My Latest Blog Post 👇
 <!-- HASHNODE_BLOG:START -->
