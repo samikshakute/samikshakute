@@ -1,6 +1,6 @@
 ## Hey there, <img src="https://user-images.githubusercontent.com/102016448/205023633-63deb91c-91cd-46ef-a2c1-aad0d361c279.gif" width="29"> I'm Samiksha! 
  A passionate learner and an Open Source Enthusiast :)
-- 🔭 I’m currently working on some Web Development Projects.
+- 🔭 I’m currently working on some Selenium Framework Projects.
 - 🌱 I’m currently learning Web Automation using Selenium.
 - 👯 I’m looking to collaborate on Open Source Projects in Java.
 - 😄 Pronouns: she/her
