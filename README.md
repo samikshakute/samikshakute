@@ -32,7 +32,7 @@
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://samikshakute.hashnode.dev/building-your-first-selenium-framework-a-step-by-step-tutorial-part-1" title="Building a Selenium Automation Framework: A Step-by-Step Guide (Part 1)">
- <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1748263449105/bda4ca03-853c-4e60-a965-6b0f2d966b5d.png" alt="Building a Selenium Automation Framework: A Step-by-Step Guide (Part 1)" width="250px" align="left" /></a>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1748263449105/bda4ca03-853c-4e60-a965-6b0f2d966b5d.png" alt="Building a Selenium Automation Framework: A Step-by-Step Guide (Part 1)" width="300px" align="left" /></a>
 <a href="https://samikshakute.hashnode.dev/building-your-first-selenium-framework-a-step-by-step-tutorial-part-1" title="Building a Selenium Automation Framework: A Step-by-Step Guide (Part 1)"><strong>Building a Selenium Automation Framework: A Step-by-Step Guide (Part 1)</strong></a>
 <div><strong>25 May 2025</strong></div>
 <br/>Welcome to the exciting world of Selenium automation! If you’re new to automation testing or looking to level up your skills, this blog is for you. In this blog, we’ll walk through the process of ... </p> <br/> <br/>
